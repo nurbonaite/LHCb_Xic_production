@@ -1,0 +1,48 @@
++------+-----------+---------+-----------------+-------------------+--------------------+------------+-------------------+
+| Year | Magnitude | Binning | Mother_particle | Daughter_particle | Kinematic_variable | Efficiency | Statistical error |
++------+-----------+---------+-----------------+-------------------+--------------------+------------+-------------------+
+| 2017 |  MagDown  |   BHH   |        Lc       |       pplus       |         P          |   0.9017   |       0.0011      |
+| 2017 |  MagDown  |   BHH   |        Lc       |       pplus       |        ETA         |   0.8974   |       0.0011      |
+| 2017 |  MagDown  |   BHH   |        Lc       |       pplus       |      nTracks       |   0.8876   |       0.0011      |
+| 2017 |  MagDown  |   BHH   |        Lc       |       kminus      |         P          |   0.9249   |       0.0012      |
+| 2017 |  MagDown  |   BHH   |        Lc       |       kminus      |        ETA         |   0.8922   |       0.0011      |
+| 2017 |  MagDown  |   BHH   |        Lc       |       kminus      |      nTracks       |   0.8763   |       0.0011      |
+| 2017 |  MagDown  |   BHH   |        Lc       |       piplus      |         P          |   0.9596   |       0.0012      |
+| 2017 |  MagDown  |   BHH   |        Lc       |       piplus      |        ETA         |   0.9212   |       0.0012      |
+| 2017 |  MagDown  |   BHH   |        Lc       |       piplus      |      nTracks       |   0.9144   |       0.0012      |
+| 2017 |  MagDown  |   BHH   |       Xic       |       pplus       |         P          |   0.8993   |       0.0005      |
+| 2017 |  MagDown  |   BHH   |       Xic       |       pplus       |        ETA         |   0.8826   |       0.0005      |
+| 2017 |  MagDown  |   BHH   |       Xic       |       pplus       |      nTracks       |   0.8895   |       0.0005      |
+| 2017 |  MagDown  |   BHH   |       Xic       |       kminus      |         P          |   0.9206   |       0.0006      |
+| 2017 |  MagDown  |   BHH   |       Xic       |       kminus      |        ETA         |   0.8785   |       0.0005      |
+| 2017 |  MagDown  |   BHH   |       Xic       |       kminus      |      nTracks       |   0.8773   |       0.0005      |
+| 2017 |  MagDown  |   BHH   |       Xic       |       piplus      |         P          |   0.9574   |       0.0006      |
+| 2017 |  MagDown  |   BHH   |       Xic       |       piplus      |        ETA         |   0.9162   |       0.0006      |
+| 2017 |  MagDown  |   BHH   |       Xic       |       piplus      |      nTracks       |   0.9150   |       0.0006      |
+| 2017 |  MagDown  | non-BHH |        Lc       |       pplus       |         P          |   0.9086   |       0.0012      |
+| 2017 |  MagDown  | non-BHH |        Lc       |       pplus       |        ETA         |   0.8924   |       0.0011      |
+| 2017 |  MagDown  | non-BHH |        Lc       |       pplus       |      nTracks       |   0.8855   |       0.0011      |
+| 2017 |  MagDown  | non-BHH |        Lc       |       kminus      |         P          |   0.9349   |       0.0012      |
+| 2017 |  MagDown  | non-BHH |        Lc       |       kminus      |        ETA         |   0.8938   |       0.0011      |
+| 2017 |  MagDown  | non-BHH |        Lc       |       kminus      |      nTracks       |   0.8792   |       0.0011      |
+| 2017 |  MagDown  | non-BHH |        Lc       |       piplus      |         P          |   0.9620   |       0.0012      |
+| 2017 |  MagDown  | non-BHH |        Lc       |       piplus      |        ETA         |   0.9203   |       0.0012      |
+| 2017 |  MagDown  | non-BHH |        Lc       |       piplus      |      nTracks       |   0.9140   |       0.0012      |
+| 2017 |  MagDown  | non-BHH |       Xic       |       pplus       |         P          |   0.9059   |       0.0006      |
+| 2017 |  MagDown  | non-BHH |       Xic       |       pplus       |        ETA         |   0.8782   |       0.0005      |
+| 2017 |  MagDown  | non-BHH |       Xic       |       pplus       |      nTracks       |   0.8871   |       0.0005      |
+| 2017 |  MagDown  | non-BHH |       Xic       |       kminus      |         P          |   0.9328   |       0.0006      |
+| 2017 |  MagDown  | non-BHH |       Xic       |       kminus      |        ETA         |   0.8811   |       0.0005      |
+| 2017 |  MagDown  | non-BHH |       Xic       |       kminus      |      nTracks       |   0.8800   |       0.0005      |
+| 2017 |  MagDown  | non-BHH |       Xic       |       piplus      |         P          |   0.9604   |       0.0006      |
+| 2017 |  MagDown  | non-BHH |       Xic       |       piplus      |        ETA         |   0.9156   |       0.0006      |
+| 2017 |  MagDown  | non-BHH |       Xic       |       piplus      |      nTracks       |   0.9145   |       0.0006      |
++------+-----------+---------+-----------------+-------------------+--------------------+------------+-------------------+
++---------+-----------------+------------+-------------------+
+| Binning | Mother_particle | Efficiency | Statistical error |
++---------+-----------------+------------+-------------------+
+|   BHH   |        Lc       |   0.4198   |       0.0048      |
+| non-BHH |        Lc       |   0.4269   |       0.0049      |
+|   BHH   |       Xic       |   0.4020   |       0.0023      |
+| non-BHH |       Xic       |   0.4105   |       0.0023      |
++---------+-----------------+------------+-------------------+
